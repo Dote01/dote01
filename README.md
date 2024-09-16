@@ -2,6 +2,7 @@
 <h3 align="center">A passionate a beginner Full stack developer and Networker from Tanzania</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dote01&label=Profile%20views&color=0e75b6&style=flat" alt="dote01" /> </p>
+<p align="right"> <img src="https://media.tenor.com/wF5RiCnfj34AAAAM/work-computer.gif" alt="dote01"  width="400"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dote01" alt="dote01" /></a> </p>
 
