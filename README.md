@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kefa Samwel</h1>
+<h1 align="center">Hi 👋, I'm kefa</h1>
 <h3 align="center">A passionate a beginner Full stack developer , Networker and cyberskills in social engineering from Tanzania</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dote01&label=Profile%20views&color=0e75b6&style=flat" alt="dote01" /> </p>
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **PHP , JS , HTML , CSS and cyber in social engineering**
 
-- 📫 How to reach me **kefasamm@gmail.com**
+- 📫 How to reach me **info@kerimtech.co.tz**
 
 - ⚡ Fun fact **I like bouncing on keyboard like a crazy**
 
